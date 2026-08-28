@@ -76,7 +76,7 @@ The analysis also identified **9 PM–5 AM** as a low-demand period suitable for
 
 High-demand periods require stronger bike availability, while maintenance activities can be scheduled during lower-demand hours to reduce disruption during peak rental periods. :contentReference[oaicite:3]{index=3}
 
-![Finding 1 — Demand by Hour](visuals/finding-1-demand-by-hour.png)
+![Finding 1 — Demand by Hour](visuals/finding-1-demand-by-hour.png.png)
 
 ## Finding 2 — Rental Demand Varies by Season
 
@@ -88,7 +88,7 @@ The customer mix also changes across seasons, while registered customers remain 
 
 Higher-demand seasons create opportunities for stronger capacity planning, while lower-demand periods such as Spring provide opportunities for seasonal promotions, particularly for casual customers. :contentReference[oaicite:4]{index=4}
 
-![Finding 2 — Users by Season](visuals/finding-2-users-by-season.png)
+![Finding 2 — Users by Season](visuals/finding-2-users-by-season.png.png)
 
 ## Finding 3 — Temperature Is Positively Associated With Demand
 
@@ -100,7 +100,7 @@ Average demand reaches around **334 rentals** in the **30–40°C** temperature 
 
 Temperature can be considered alongside time, season and weather when planning bike availability and operating decisions. :contentReference[oaicite:5]{index=5}
 
-![Finding 3 — Demand vs Temperature](visuals/finding-3-demand-vs-temperature.png)
+![Finding 3 — Demand vs Temperature](visuals/finding-3-demand-vs-temperature.png.png)
 
 ## Finding 4 — Weather Strongly Affects Casual User Participation
 
@@ -119,7 +119,7 @@ Registered users remain the dominant customer segment across weather conditions.
 
 Casual customers are more sensitive to unfavorable weather, creating an opportunity for weather-based promotions during favorable conditions, while registered customers remain the core customer segment. :contentReference[oaicite:6]{index=6}
 
-![Finding 4 — User Type by Weather](visuals/finding-4-user-type-weather.png)
+![Finding 4 — User Type by Weather](visuals/finding-4-user-type-weather.png.png)
 
 ## Finding 5 — Registered Users Dominate Overall Rentals
 
@@ -129,7 +129,7 @@ Registered users account for **81.2%** of total rentals, while casual users acco
 
 Registered customers are the core source of rental activity. This creates opportunities for customer retention and for converting casual users into registered customers. :contentReference[oaicite:7]{index=7}
 
-![Finding 5 — SQL Proof](visuals/finding-5-sql-proof.png)
+![Finding 5 — SQL Proof](visuals/finding-5-sql-proof.png.png)
 
 # Tableau Dashboard
 
