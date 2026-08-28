@@ -177,8 +177,8 @@ Maintaining a balanced content mix can help **serve different customer preferenc
 | File | Description |
 |---|---|
 | [Final Report](Netflix_Final_Report.pdf) | Complete project report |
-| [Python Analysis](Netflix-Analysis.ipynb) | Python data cleaning and analysis |
-| [SQL Analysis](Netflix-Analysis.sql) | SQL business analysis |
+| [Python Analysis](Netflix-Analysis.ipynb) | Python data cleaning, preparation and analysis |
+| [SQL Analysis](Netflix-Analysis.sql) | SQL-based business analysis |
 | [Power BI Dashboard](Netflix-Dashboard.pbix) | Interactive Power BI dashboard |
 
 # Conclusion
