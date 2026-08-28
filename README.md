@@ -133,6 +133,6 @@ I enjoy working across the complete analytics process — from cleaning and anal
 
 📧 Email: shah1534nikhil@gmail.com
 
-🔗 [LinkedIn](www.linkedin.com/in/nikhil-shah-b6908825a)
+🔗 [LinkedIn](https://www.linkedin.com/in/nikhil-shah-b6908825a/)
 
 
