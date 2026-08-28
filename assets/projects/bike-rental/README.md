@@ -195,11 +195,12 @@ This can help strengthen the recurring customer base and increase registered-use
 
 | File | Description |
 |---|---|
-| `Bike-Rental-Analysis` | Python data preparation and analysis |
-| `Bike-Rental-Analysis- SQL` | SQL business analysis |
-| `Bike_Rental_Final_Report` | Complete project report |
-| `Bike-Rental-Dashboard` | Tableau dashboard |
-| `visuals/` | Key findings and dashboard visuals |
+| [Raw Data](data/Bike-Rental-Raw-Data.xlsx) | Original bike rental dataset |
+| [Cleaned Data](data/Bike-Rental-Cleaned-Data.xlsx) | Prepared dataset used for analysis |
+| [Final Report](Bike_Rental_Final_Report.pdf) | Complete project report |
+| [Python Analysis](Bike-Rental-Analysis.ipynb) | Python data preparation and analysis |
+| [SQL Analysis](Bike-Rental-Analysis.sql) | SQL business analysis |
+| [Tableau Dashboard](Bike-Rental-Dashboard.twbx) | Interactive Tableau dashboard |
 
 # Conclusion
 
