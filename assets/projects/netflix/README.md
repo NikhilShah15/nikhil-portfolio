@@ -174,14 +174,16 @@ Maintaining a balanced content mix can help **serve different customer preferenc
 
 # Project Files
 
+# Project Files
+
 | File | Description |
 |---|---|
-| [Raw Data](data/Netflix-Raw-Data.xlsx) | Original simulated customer dataset |
-| [Cleaned Data](data/Netflix-Cleaned-Data.csv) | Cleaned dataset used for analysis |
-| [Final Report](Netflix_Final_Report.pdf) | Complete project report |
-| [Python Analysis](Netflix-Analysis.ipynb) | Python data cleaning, preparation and analysis |
-| [SQL Analysis](Netflix-Analysis.sql) | SQL-based business analysis |
-| [Power BI Dashboard](Netflix-Dashboard.pbix) | Interactive Power BI dashboard |
+| [Raw Data](data/Bike-Rental-Raw-Data.xlsx) | Original bike rental dataset |
+| [Cleaned Data](data/Bike-Rental-Cleaned-Data.xlsx) | Prepared dataset used for analysis |
+| [Final Report](Bike_Rental_Final_Report.pdf) | Complete project report |
+| [Python Analysis](Bike-Rental-Analysis.ipynb) | Python data preparation and analysis |
+| [SQL Analysis](Bike-Rental-Analysis.sql) | SQL business analysis |
+| [Tableau Public Dashboard](https://public.tableau.com/views/Bike_Rental_17873311789340/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link) | Interactive Tableau dashboard |
 
 # Conclusion
 
