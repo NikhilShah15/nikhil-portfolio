@@ -48,7 +48,7 @@ The analysis identified **697 active customers, 89 paused customers and 197 canc
 
 The active customer base provides a strong foundation for continued engagement. The paused customer segment represents an opportunity for reactivation, while the cancelled customer segment provides an opportunity to understand customer loss and reduce future cancellations.
 
-![Finding 1 — Customer Account Status](visuals/finding-1-account-status.png)
+![Finding 1 — Customer Account Status](visuals/Finding-1.png)
 
 ## Finding 2 — Subscription Plans
 
@@ -60,7 +60,7 @@ The difference between Premium and Basic is only **25 customers**, showing that 
 
 Premium has the largest customer base among the three plans. The relatively balanced distribution across the plans also provides an opportunity to increase Premium adoption among suitable customers.
 
-![Finding 2 — Subscription Plans](visuals/finding-2-subscription-plans.png)
+![Finding 2 — Subscription Plans](visuals/Finding-2.png)
 
 ## Finding 3 — Average Watch Hours by Genre
 
@@ -87,7 +87,7 @@ Average watch hours across genres range from **41.58 to 45 hours**, a difference
 
 Horror and Sci-Fi show the strongest viewing engagement, while Thriller and Crime have comparatively lower average watch hours. These differences provide useful insight into customer content consumption and engagement.
 
-![Finding 3 — Average Watch Hours by Genre](visuals/finding-3-genre-watch-hours.png)
+![Finding 3 — Average Watch Hours by Genre](visuals/Finding-3.png)
 
 ## Finding 4 — Average Watch Hours Over Time
 
@@ -106,7 +106,7 @@ The decline was **2.02 hours from 2022 to 2023**, followed by smaller decreases 
 
 The continued decline shows that customer viewing activity needs attention. However, the smaller year-over-year decreases indicate that the rate of decline is slowing over time.
 
-![Finding 4 — Average Watch Hours Over Time](visuals/finding-4-watch-hours-by-year.png)
+![Finding 4 — Average Watch Hours Over Time](visuals/Finding-4.png)
 
 ## Finding 5 — TV Shows vs Movies
 
@@ -118,7 +118,7 @@ The difference is only **31 users**, showing that customer usage is relatively b
 
 TV Shows have a slight usage advantage, but customers consume both TV Shows and Movies. Maintaining variety across both content types is therefore important for meeting different customer viewing preferences.
 
-![Finding 5 — TV Shows vs Movies](visuals/finding-5-content-type.png)
+![Finding 5 — TV Shows vs Movies](visuals/Finding-5.png)
 
 # Power BI Dashboard
 
@@ -134,11 +134,11 @@ The dashboard provides a view of:
 
 ### Dashboard Page 1 — Customer & Subscription Analysis
 
-![Dashboard Page 1](visuals/dashboard-page-1.png)
+![Dashboard Page 1](visuals/Dashboard-1.png)
 
 ### Dashboard Page 2 — Content & Engagement Analysis
 
-![Dashboard Page 2](visuals/dashboard-page-2.png)
+![Dashboard Page 2](visuals/Dashboard-2.png)
 
 # Actionable Recommendations
 
