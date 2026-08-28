@@ -191,12 +191,13 @@ Introduce membership trials or introductory plans to encourage casual customers 
 
 This can help strengthen the recurring customer base and increase registered-user participation. :contentReference[oaicite:9]{index=9}
 
-# Project Files
+# Project Files data
+
 
 | File | Description |
 |---|---|
-| [Raw Data](data/Bike-Rental-Raw-Data.xlsx) | Original bike rental dataset |
-| [Cleaned Data](data/Bike-Rental-Cleaned-Data.xlsx) | Prepared dataset used for analysis |
+| [Raw Data](data/Bike-Rental-Raw-Data.csv) | Original bike rental dataset |
+| [Cleaned Data](data/Bike-Rental-Cleaned-Data.csv) | Prepared dataset used for analysis |
 | [Final Report](Bike_Rental_Final_Report.pdf) | Complete project report |
 | [Python Analysis](Bike-Rental-Analysis.ipynb) | Python data preparation and analysis |
 | [SQL Analysis](Bike-Rental-Analysis.sql) | SQL business analysis |
