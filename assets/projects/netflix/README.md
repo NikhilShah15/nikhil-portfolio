@@ -177,7 +177,7 @@ Maintaining a balanced content mix can help **serve different customer preferenc
 | File | Description |
 |---|---|
 | [Raw Data](data/Netflix-Raw-Data.xlsx) | Original simulated customer dataset |
-| [Cleaned Data](data/Netflix-Cleaned-Data.xlsx) | Cleaned dataset used for analysis |
+| [Cleaned Data](data/Netflix-Cleaned-Data.csv) | Cleaned dataset used for analysis |
 | [Final Report](Netflix_Final_Report.pdf) | Complete project report |
 | [Python Analysis](Netflix-Analysis.ipynb) | Python data cleaning, preparation and analysis |
 | [SQL Analysis](Netflix-Analysis.sql) | SQL-based business analysis |
