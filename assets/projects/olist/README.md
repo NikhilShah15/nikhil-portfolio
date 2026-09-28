@@ -48,7 +48,7 @@ This identifies longer-delivery segments as an important area for operational in
 
 Sales and order volume do not always move together.
 
-For example, there were periods where the number of orders decreased while sales increased, and periods where orders increased while sales decreased.
+There were periods where the number of orders decreased while sales increased, and periods where orders increased while sales decreased.
 
 This shows why **average order value and sales composition** should be monitored alongside order volume.
 
@@ -86,11 +86,14 @@ The final Power BI dashboard provides an interactive view of the project's busin
 | Resource | Link |
 |---|---|
 | Business Report | [View Business Report](Reports/Olist_Ecommerce_Analysis_Report.pdf) |
-| Technical Project Summary | [View Technical Summary](Reports/Olist_Ecommerce_Technical_Project_Summary.pdf) |
 | Python Analysis | [Open Python Analysis](Python/Olist_Ecommerce_Analysis.ipynb) |
 | SQL Analysis | [Open SQL Analysis](SQL/Olist_Ecommerce_Analysis.sql) |
-| Power BI Data | [View Power BI Data Files](PowerBI/) |
-| Project Visuals | [View Project Visuals](Visuals/) |
+| Customers Data | [Open CSV](PowerBI/Customers_PowerBI.csv) |
+| Delivery & Reviews Data | [Open CSV](PowerBI/Delivery_Reviews_PowerBI.csv) |
+| Order Items Data | [Open CSV](PowerBI/Order_Items_PowerBI.csv) |
+| Orders Data | [Open CSV](PowerBI/Orders_PowerBI.csv) |
+| Payment Summary Data | [Open CSV](PowerBI/Payment_Summary_PowerBI.csv) |
+| Payments Data | [Open CSV](PowerBI/Payments_PowerBI.csv) |
 
 ## Analysis Workflow
 
