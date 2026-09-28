@@ -142,10 +142,11 @@ The goal is to move beyond charts and numbers and translate data into findings t
 
 # Projects Overview
 
-| Project | Domain | Tools | Focus |
-|---|---|---|---|
-| Bike Rental Demand & Usage Analysis | Transportation | Python, SQL, Tableau | Demand, weather, seasonality & customer behavior |
-| Netflix Customer, Subscription & Engagement Analytics | Streaming | Python, SQL, Power BI | Customers, subscriptions, content & engagement |
+| **Project**                                           | **Domain**     | **Tools**             | **Focus**                                                   |
+| ----------------------------------------------------- | -------------- | --------------------- | ----------------------------------------------------------- |
+| Olist Brazilian E-Commerce Analytics                  | E-Commerce     | Python, SQL, Power BI | Sales, customers, delivery, products & business performance |
+| Bike Rental Demand & Usage Analysis                   | Transportation | Python, SQL, Tableau  | Demand, weather, seasonality & customer behavior            |
+| Netflix Customer, Subscription & Engagement Analytics | Streaming      | Python, SQL, Power BI | Customers, subscriptions, content & engagement              |
 
 ---
 
@@ -155,7 +156,6 @@ I am building my skills in **Data Analytics**, with a focus on turning raw data 
 
 I enjoy working across the complete analytics process — from cleaning and analyzing data to creating dashboards and communicating findings.
 
----
 
 # Connect With Me
 
