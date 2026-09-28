@@ -19,6 +19,26 @@ This repository showcases my end-to-end data analytics projects, covering data p
 5. Brain Tumor
 6. E-commerce Store
 
+## 🛒 Olist Brazilian E-Commerce Analytics
+
+**Tools:** Python | SQL | Power BI
+
+An end-to-end business analysis of the Olist Brazilian E-Commerce dataset covering product performance, geographic sales, delivery experience, customer ordering behavior, sales trends and payment activity.
+
+### Project Resources
+
+📊 [View Olist Project](assets/projects/olist/)
+
+📄 [Business Report](assets/projects/olist/Reports/Olist_Ecommerce_Analysis_Report.pdf)
+
+💻 [Python Analysis](assets/projects/olist/Python/Olist_Ecommerce_Analysis.ipynb)
+
+🗄️ [SQL Analysis](assets/projects/olist/SQL/Olist_Ecommerce_Analysis.sql)
+
+📈 [Power BI Dashboard (.pbix)](https://drive.google.com/file/d/1MKdVmuZ5XEdy-tEu9iVuPNwPeUfFf9N1/view?usp=sharing)
+
+---
+
 ## 🚲 Bike Rental Demand & Usage Analysis
 
 **Tools:** Python | SQL | Tableau
