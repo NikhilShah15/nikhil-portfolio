@@ -8,16 +8,14 @@ This repository showcases my end-to-end data analytics projects, covering data p
 
 ---
 
+
 # Featured Projects
 
 ## Project Order
 
-1. O-list
-2. Bike Rental
-3. Netflix
-4. Ideafy
-5. Brain Tumor
-6. E-commerce Store
+1. [O-list](assets/projects/olist/)
+2. [Bike Rental](assets/projects/bike-rental/)
+3. [Netflix](assets/projects/netflix/)
 
 ## 🛒 Olist Brazilian E-Commerce Analytics
 
