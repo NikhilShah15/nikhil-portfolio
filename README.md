@@ -67,26 +67,6 @@ An end-to-end analysis using **simulated Netflix-style customer data** to unders
 📈 [Power BI Dashboard](assets/projects/netflix/Netflix-Dashboard.pbix)
 
 
-## 🛒 Olist Brazilian E-Commerce Analytics
-
-**Tools:** Python | SQL | Power BI
-
-An end-to-end e-commerce analysis using the public Olist Brazilian E-Commerce dataset, covering category performance, state-level sales, delivery experience, customer ordering behaviour, sales trends and payments.
-
-### Project Files
-
-📊 [View Project Case Study](assets/projects/olist/)
-
-💻 [Python Analysis](assets/projects/olist/Python/Olist_Analysis.ipynb)
-
-🗄️ [SQL Analysis](assets/projects/olist/SQL/Olist_Analysis.sql)
-
-📄 [Business Report](assets/projects/olist/Reports/Olist_Business_Report.md)
-
-📝 [Technical Project Summary](assets/projects/olist/Reports/Olist_Technical_Project_Summary.md)
-
----
-
 # Skills & Technologies
 
 ### Data Analysis
